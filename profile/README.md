@@ -22,6 +22,7 @@
 - Explores styling libraries, responsive design, and accessibility features.
 - Gives user status updates to the class at the end of the day.
 
+
 ## Project manager: Matt
 - Must have strong communication with the team about who is working on what.
 - Guardian of the Trello board.
@@ -31,6 +32,7 @@
 - Manages external resources.
 - Gives status updates to the class at the beginning of the day.
  
+ 
 ## Tech lead/anchor: Garrett
 - Must have a strong understanding of the technical needs of the project.
 - Guardian of GitHub.
@@ -38,12 +40,13 @@
 - Leads mentorship sessions for the team.
 - Surfaces blockers to the class at the beginning of the day.
 
+
 ## Product manager: Frank
 - Must have strong management skills to provide support to the team and keep team unblocked.
 - Manages the conversation around large changes to the app.
 - Ensures the README contains appropriate information.
 - Gives progress updates to the class at the end of the day.
-
+---
 Project Image credit: By Jacob van Campen
 https://www.paleisamsterdam.nl/en/discover-palace/atlas/, CC BY-SA 4.0,
 https://commons.wikimedia.org/w/index.php?curid=121147230

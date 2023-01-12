@@ -1,5 +1,4 @@
----
-# Our CRUD actions are:
+# Team Atlas CRUD actions:
 ## Create:
 - user can create an account
 - each account can create a workout

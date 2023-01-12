@@ -1,3 +1,8 @@
+``` javascript
+Welcome to Team Atlas
+Checkout our CRUD actions and TEAM member below!
+```
+
 # Team Atlas CRUD actions:
 ## -Create
 - user can create an account

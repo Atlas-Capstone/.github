@@ -19,6 +19,7 @@ Checkout our CRUD actions and TEAM members below!
 - user can update their account
 ## Destroy
 - user can delete their account
+
 ---
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.

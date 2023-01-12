@@ -1,6 +1,6 @@
 Next generation fitness app, using React, Ruby on Rails, Tailwind CSS, and TypeScript.
 
-Live link: :earth_africa:
+Live link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)

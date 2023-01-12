@@ -1,12 +1,13 @@
 # Team Atlas CRUD actions:
-## Create:
+## -Create
 - user can create an account
 - each account can create a workout
-## Read
+## -Read
 - user can read 
-## Update
-## Destroy
-- user can delete a workout routine
+## -Update
+- user can update their account
+## -Destroy
+- user can delete their account
 ---
 # Housekeeping
 - atlascapstone@gmail.com

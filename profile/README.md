@@ -1,5 +1,5 @@
 ``` ruby
-<hello world>
+<Instructors have been invited with "owner" role>
 ```
 Welcome to the next generation fitness app
 

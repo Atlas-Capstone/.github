@@ -1,7 +1,7 @@
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
 - atlascapstone@gmail.com
-- [Github Splash Readme Repo](https://github.com/Atlas-Capstone/.github)
+- [This splash readme repo](https://github.com/Atlas-Capstone/.github)
 ``` ruby
 Welcome to Team Atlas
 Checkout our CRUD actions and TEAM members below!

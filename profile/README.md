@@ -1,9 +1,10 @@
 
--Our CRUD actions are:
- -Create:
-  -user can create an account
--Read
- - user can read
+# Our CRUD actions are:
+## Create:
+-user can create an account
+-each account can create a workout
+## Read
+-user can read 
 
 
 ---

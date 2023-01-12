@@ -1,8 +1,19 @@
-## Team Members
-# Design lead: Zeke
-# Project manager: Matt
-# Tech lead/anchor: Garrett
-# Product manager: Frank
+``` javascript
+<hello world>
+```
+---
+#Team Members
+## Design lead: Zeke
+## Project manager: Matt
+ - Must have strong communication with the team about who is working on what.
+ - Guardian of the Trello board.
+ - Ensures developers are assigned to the card they are working on.
+ - Notifies the instructors and/or mentors of PRs when a card is moved to the PR swimlane.
+ - Keeps Slack active with updates and pins appropriate content.
+ - Manages external resources.
+ - Gives status updates to the class at the beginning of the day.
+## Tech lead/anchor: Garrett
+## Product manager: Frank
 - Must have strong management skills to provide support to the team and keep team unblocked.
 - Manages the conversation around large changes to the app.
 - Ensures the README contains appropriate information.

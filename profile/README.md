@@ -1,11 +1,19 @@
 ``` ruby
 <hello world>
 ```
+Welcome to the next generation fitness app
+
 - E-mail atlascapstone@gmail.com
-- Slack https://app.slack.com/client/T04B40L2C/C04JP9SFVLK
-- Trello https://trello.com/b/3rkEvjWA/atlas
+- [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
+- [Trello](https://trello.com/b/3rkEvjWA/atlas)
 
 ## Design lead: Zeke
+- Must have a strong understanding of the UI/UX needs of the application.
+- Guardian of the wireframes.
+- Oversees color schemes and implementation of branding.
+- Ensures intuitive navigation and user experience.
+- Explores styling libraries, responsive design, and accessibility features.
+- Gives user status updates to the class at the end of the day.
 
 ## Project manager: Matt
 - Must have strong communication with the team about who is working on what.
@@ -17,6 +25,11 @@
 - Gives status updates to the class at the beginning of the day.
  
 ## Tech lead/anchor: Garrett
+- Must have a strong understanding of the technical needs of the project.
+- Guardian of GitHub.
+- Merges code when appropriate.
+- Leads mentorship sessions for the team.
+- Surfaces blockers to the class at the beginning of the day.
 
 ## Product manager: Frank
 - Must have strong management skills to provide support to the team and keep team unblocked.

@@ -1,8 +1,12 @@
-``` python
-Instructors have been invited with "owner" role
-Checkout the Github "discussions" feature
-```
-A next generation fitness app
+
+-Our CRUD actions are:
+ -Create:
+  -user can create an account
+-Read
+ - user can read
+
+
+
 
 - atlascapstone@gmail.com
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)

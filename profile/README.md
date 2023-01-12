@@ -6,14 +6,14 @@
 Welcome to Team Atlas
 Checkout our CRUD actions and TEAM members below!
 ```
-## -Create
+## Create
 - user can create an account
 - each account can create a workout
-## -Read
+## Read
 - user can read 
-## -Update
+## Update
 - user can update their account
-## -Destroy
+## Destroy
 - user can delete their account
 ---
 ## Design lead: Zeke

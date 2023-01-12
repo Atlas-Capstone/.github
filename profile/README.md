@@ -1,14 +1,15 @@
 
 # Our CRUD actions are:
 ## Create:
--user can create an account
--each account can create a workout
+- user can create an account
+- each account can create a workout
 ## Read
--user can read 
+- user can read 
+## Update
+## Destroy
+- user can delete a workout routine
 
-
----
-
+# Housekeeping
 - atlascapstone@gmail.com
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)

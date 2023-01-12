@@ -1,6 +1,6 @@
-``` javascript
+``` ruby
 Welcome to Team Atlas
-Checkout our CRUD actions and TEAM member below!
+Checkout our CRUD actions and TEAM members below!
 ```
 
 # Team Atlas CRUD actions:

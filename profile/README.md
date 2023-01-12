@@ -1,9 +1,10 @@
+- atlascapstone@gmail.com
+- [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
+- [Trello](https://trello.com/b/3rkEvjWA/atlas)
 ``` ruby
 Welcome to Team Atlas
 Checkout our CRUD actions and TEAM members below!
 ```
-
-# Team Atlas CRUD actions:
 ## -Create
 - user can create an account
 - each account can create a workout
@@ -14,11 +15,6 @@ Checkout our CRUD actions and TEAM members below!
 ## -Destroy
 - user can delete their account
 ---
-# Housekeeping
-- atlascapstone@gmail.com
-- [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
-- [Trello](https://trello.com/b/3rkEvjWA/atlas)
-
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.
 - Guardian of the wireframes.

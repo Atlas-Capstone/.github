@@ -1,15 +1,28 @@
 # Tables
 
+- Users
+have many Routines and Completed_Routines
+can create Exercises.
 
-| users | Has many routines and completed Routines |
-| name | age | height | weight | age | gender |
+- Routines
+have many Exercise Routines
 
-## routines
-Has many exercise routines
+- Exercises
+have many Exercise_Routines
 
-## 
+- Exercise_Routines
+are user created cum routines of exercises
+have many Completed_Routines
 
-| Exercise | Exercise Routine | Completed Routine |
-| --- | --- | --- |
-| user_id |
-| name | 
+
+Completed routines are part of stretch goals and are used to add a "timer" functionality.
+
+
+| User | Routines | Exercises | Exercise_Routines |
+| --- | --- | --------------- |  --- |
+| name | ------------- | name |  --- |
+| age | ------- | description |  --- |
+| height | ----- | difficulty |  --- |
+| weight | ------- | category | --- |
+| age | ------------- | image |  --- |
+| gender | ------------ | --- | --- |

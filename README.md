@@ -2,7 +2,6 @@
 
 
 | users | Has many routines and completed Routines |
-| --- | --- |
 | name | age | height | weight | age | gender |
 
 ## routines

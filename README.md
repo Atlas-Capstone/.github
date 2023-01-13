@@ -1,21 +1,22 @@
 # Tables
 
-- Users
-have many Routines and Completed_Routines
-can create Exercises.
+## Users
+- have many Routines and Completed_Routines
+- can create Exercises.
 
-- Routines
-have many Exercise Routines
+## Routines
+- Are provided routines of exercise from the app
+- have many Exercise Routines
 
-- Exercises
-have many Exercise_Routines
+## Exercises
+- Push-ups, sit-ups, etc.
 
-- Exercise_Routines
-are user created cum routines of exercises
-have many Completed_Routines
+## Exercise_Routines
+- are user created custom routines of exercises
+- have many exercises
+- have many Completed_Routines
 
-
-Completed routines are part of stretch goals and are used to add a "timer" functionality.
+## Completed routines are part of stretch goals and are used to add a "timer" functionality.
 
 
 | User | Routines | Exercises | Exercise_Routines |

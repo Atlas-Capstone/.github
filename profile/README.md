@@ -1,10 +1,14 @@
+Index
+
+
+
 Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
 Live link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
-- atlascapstone@gmail.com
+- [E-mail](mailto:atlascapstone@gmail.com)
 - [Database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
 - [Elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
 - [User stories](https://docs.google.com/document/d/1iiF90WB4jrryqv8C88z0grxlvLB40FSURUGxH7U6ock/edit?usp=share_link)

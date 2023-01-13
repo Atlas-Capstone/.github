@@ -1,7 +1,3 @@
-Index
-
-
-
 Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
 Live link: :earth_asia:

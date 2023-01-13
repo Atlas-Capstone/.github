@@ -8,18 +8,8 @@ Live link: :earth_asia:
 - [This splash readme repo](https://github.com/Atlas-Capstone/.github)
 ``` ruby
 Welcome to Team Atlas
-Checkout our CRUD actions and TEAM members below!
+Checkout our team members below!
 ```
-## Create
-- user can create an account
-- each account can create a workout
-## Read
-- user can read 
-## Update
-- user can update their account
-## Destroy
-- user can delete their account
-
 ---
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.

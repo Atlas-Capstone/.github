@@ -4,8 +4,8 @@ Live link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
-- atlascapstone@gmail.com
-- [This splash readme repo](https://github.com/Atlas-Capstone/.github)
+- [E-mail](atlascapstone@gmail.com)
+
 ``` ruby
 Welcome to Team Atlas
 Checkout our team members below!

@@ -1,4 +1,4 @@
-Next generation fitness app, using React, Ruby on Rails, Tailwind CSS, and TypeScript.
+Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
 Live link: :earth_asia:
 

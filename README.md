@@ -1,5 +1,5 @@
 ### Users
-:name, :age, :height, :weight, :gender
+:name :age :height :weight :gender
 - have many Routines and Completed_Routines.
 - can create Exercises.
 
@@ -10,7 +10,7 @@
 
 
 ### Exercises
-:name, :description, :difficulty, :category, :image
+:name :description :difficulty :category :image
 
 
 ### Exercise_Routines

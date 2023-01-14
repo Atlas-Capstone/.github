@@ -10,9 +10,12 @@ Live link: :earth_asia:
 - [User stories](https://docs.google.com/document/d/1iiF90WB4jrryqv8C88z0grxlvLB40FSURUGxH7U6ock/edit?usp=share_link)
 ``` ruby
 Welcome to Team Atlas
-Checkout our team members below!
+Checkout our readme menu below!
 ```
+[1. Team Members](#1-Team Members)
+[2. Database Schema](#2-Schema)
 ---
+# Team Members
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.
 - Guardian of the wireframes.
@@ -46,6 +49,7 @@ Checkout our team members below!
 - Ensures the README contains appropriate information.
 - Gives progress updates to the class at the end of the day.
 ---
+# Database Schema
 ### Users
 :name :age :height :weight :gender
 - have many Routines and Completed_Routines.

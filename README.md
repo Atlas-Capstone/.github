@@ -1,12 +1,12 @@
 ### Users
-- have many Routines and Completed_Routines
+- have many Routines and Completed_Routines.
 - can create Exercises.
 
 name, age, height, weight, gender
 
 ### Routines
-- Are provided routines of exercise from the app
-- have many Exercise Routines
+- Are routines of exercises Users access from the app.
+- have many Exercise Routines.
 
 ### Exercises
 - Push-ups, sit-ups, etc.

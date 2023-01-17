@@ -1,12 +1,12 @@
 Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
+Project link: :earth_asia:
+
 [Meet the team](#team-members)
 
 [See our database schema](#database-schema)
 
 [Check out our Footer](#footer)
-
-Project link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)

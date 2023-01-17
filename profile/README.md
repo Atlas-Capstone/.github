@@ -20,6 +20,8 @@ Meet our team members!
 
 ---
 # Team Members
+---
+
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.
 - Guardian of the wireframes.
@@ -52,8 +54,11 @@ Meet our team members!
 - Website flowchart
 - Ensures the README contains appropriate information (beautify, add navigation)
 - Gives progress updates to the class at the end of the day.
+
 ---
 # Database Schema
+---
+
 ### Users
 :name :age :height :weight :gender
 - have many Routines and Completed_Routines.
@@ -76,9 +81,11 @@ Meet our team members!
 
 
 ### Completed routines are part of stretch goals and are used to add a "timer" functionality
+
 ---
 # Footer
 ---
+
 Project Image credit: By Jacob van Campen
 https://www.paleisamsterdam.nl/en/discover-palace/atlas/, CC BY-SA 4.0,
 https://commons.wikimedia.org/w/index.php?curid=121147230

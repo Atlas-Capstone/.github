@@ -6,8 +6,6 @@ Project link: :earth_asia:
 
 [See our database schema](#database-schema)
 
-[Check out our Footer](#footer)
-
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
 - [E-mail](mailto:atlascapstone@gmail.com)

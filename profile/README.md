@@ -4,6 +4,8 @@ Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
 [Database Schema](#database-schema)
 
+[Footer](#footer)
+
 Live link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
@@ -12,7 +14,7 @@ Live link: :earth_asia:
 - [Database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
 - [Elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
 - [User stories](https://docs.google.com/document/d/1iiF90WB4jrryqv8C88z0grxlvLB40FSURUGxH7U6ock/edit?usp=share_link)
-- 
+
 ``` ruby
 Welcome to Team Atlas
 Meet our team members!
@@ -77,7 +79,7 @@ Meet our team members!
 
 ### Completed routines are part of stretch goals and are used to add a "timer" functionality
 ---
-Footnotes
+# Footer
 ---
 Project Image credit: By Jacob van Campen
 https://www.paleisamsterdam.nl/en/discover-palace/atlas/, CC BY-SA 4.0,

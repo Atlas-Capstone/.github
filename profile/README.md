@@ -44,9 +44,9 @@ Checkout our readme menu below!
 
 
 ## Product manager: Frank
-- Must have strong management skills to provide support to the team and keep team unblocked.
-- Manages the conversation around large changes to the app.
-- Ensures the README contains appropriate information.
+- Zoom logo animation
+- Website flowchart
+- Ensures the README contains appropriate information (beautify, add navigation)
 - Gives progress updates to the class at the end of the day.
 ---
 # Database Schema

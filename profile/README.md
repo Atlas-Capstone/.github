@@ -12,8 +12,9 @@ Live link: :earth_asia:
 Welcome to Team Atlas
 Checkout our readme menu below!
 ```
-[Team Members](#-team)
-[Database Schema](#-schema)
+[Meet the team](#team-members)
+
+[Database Schema](#database-schema)
 ---
 # Team
 ## Design lead: Zeke

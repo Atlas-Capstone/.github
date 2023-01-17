@@ -12,10 +12,10 @@ Live link: :earth_asia:
 Welcome to Team Atlas
 Checkout our readme menu below!
 ```
-[1. Team Members](#1-Team Members)
-[2. Database Schema](#2-Schema)
+[Team Members](#-team)
+[Database Schema](#-schema)
 ---
-# Team Members
+# Team
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.
 - Guardian of the wireframes.

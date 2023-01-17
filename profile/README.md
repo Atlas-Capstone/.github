@@ -1,5 +1,9 @@
 Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
+[Meet the team](#team-members)
+
+[Database Schema](#database-schema)
+
 Live link: :earth_asia:
 
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
@@ -8,15 +12,14 @@ Live link: :earth_asia:
 - [Database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
 - [Elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
 - [User stories](https://docs.google.com/document/d/1iiF90WB4jrryqv8C88z0grxlvLB40FSURUGxH7U6ock/edit?usp=share_link)
+- 
 ``` ruby
 Welcome to Team Atlas
-Checkout our readme menu below!
+Meet our team members!
 ```
-[Meet the team](#team-members)
 
-[Database Schema](#database-schema)
 ---
-# Team
+# Team Members
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.
 - Guardian of the wireframes.

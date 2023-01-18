@@ -2,25 +2,19 @@ Next generation fitness app, using React, Rails, Tailwind, and TypeScript.
 
 Project link: :earth_asia:
 
-[Meet the team](#team-members)
-
-[See our database schema](#database-schema)
-
+- [See our database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
 - [Slack](https://app.slack.com/client/T04B40L2C/C04JP9SFVLK)
 - [Figma](https://www.figma.com/file/jtnyZbNAbNW0OrKsD7tOmE/Atlas-Mobile-UI?node-id=0%3A1&t=cLJG6UqbgYZMIeGD-0)
 - [E-mail](mailto:atlascapstone@gmail.com)
-- [Database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
-- [Elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
+- [Read our elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
+- [Read our database schema](#database-schema)
+- [Meet the team](#team-members)
 
 ``` ruby
 Welcome to Team Atlas
 Meet our team members!
 ```
-
----
-# Team Members
----
 
 ## Design lead: Zeke
 - Must have a strong understanding of the UI/UX needs of the application.

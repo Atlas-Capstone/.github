@@ -83,12 +83,3 @@ Meet our team members!
 
 ### Completed routines are part of stretch goals and are used to add a "timer" functionality
 
----
-# Footer
----
-
-Project Image credit: By Jacob van Campen
-https://www.paleisamsterdam.nl/en/discover-palace/atlas/, CC BY-SA 4.0,
-https://commons.wikimedia.org/w/index.php?curid=121147230
-
-Feel free to provide feedback in the discussions section

@@ -8,6 +8,7 @@ Project link: :earth_asia:
 - [Figma](https://www.figma.com/file/jtnyZbNAbNW0OrKsD7tOmE/Atlas-Mobile-UI?node-id=0%3A1&t=cLJG6UqbgYZMIeGD-0)
 - [E-mail](mailto:atlascapstone@gmail.com)
 - [Read our elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
+- [Learn syllabus](https://github.com/learn-academy-2022-golf/Syllabus)
 
 ``` ruby
 Welcome to Team Atlas

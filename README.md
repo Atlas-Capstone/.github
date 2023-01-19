@@ -1,6 +1,5 @@
 - Initial documented setup
-- ["Modifying devise" from Learn Syllabus](https://github.com/learn-academy-2022-golf/Syllabus/blob/main/capstone/modifying-devise.md)
-- These are teh 'strong params'
+- ["Modifying devise" from Learn Syllabus, 'adding strong params'](https://github.com/learn-academy-2022-golf/Syllabus/blob/main/capstone/modifying-devise.md)
 
 
 # Database

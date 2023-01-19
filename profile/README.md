@@ -9,7 +9,6 @@ Project link: :earth_asia:
 - [E-mail](mailto:atlascapstone@gmail.com)
 - [Read our elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
 - [Read our database schema](#database-schema)
-- [Meet the team](#team-members)
 
 ``` ruby
 Welcome to Team Atlas

@@ -9,6 +9,9 @@
 class: "block text-sm font-md leading-5 text-white"
 ```
 
+# Need to do
+- Add gender options (select option)
+
 # Database
 
 ## Users

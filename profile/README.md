@@ -8,7 +8,6 @@ Project link: :earth_asia:
 - [Figma](https://www.figma.com/file/jtnyZbNAbNW0OrKsD7tOmE/Atlas-Mobile-UI?node-id=0%3A1&t=cLJG6UqbgYZMIeGD-0)
 - [E-mail](mailto:atlascapstone@gmail.com)
 - [Read our elevator pitch](https://docs.google.com/document/d/1WqmMvFAsR7GZbPTTVP2ReWBhZAY786r3GGlNZy6b8vU/edit?usp=sharing)
-- [Read our database schema](#database-schema)
 
 ``` ruby
 Welcome to Team Atlas
@@ -47,31 +46,3 @@ Meet our team members!
 - Website flowchart
 - Ensures the README contains appropriate information (beautify, add navigation)
 - Gives progress updates to the class at the end of the day.
-
----
-# Database Schema
----
-
-### Users
-:name :age :height :weight :gender
-- have many Routines and Completed_Routines.
-- can create Exercises.
-
-
-### Routines
-- are routines of Exercises Users access from the app.
-- have many Exercise Routines.
-
-
-### Exercises
-:name :description :difficulty :category :image
-
-
-### Exercise_Routines
-- are user created custom routines of exercises
-- have many exercises
-- have many Completed_Routines
-
-
-### Completed routines are part of stretch goals and are used to add a "timer" functionality
-

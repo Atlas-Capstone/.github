@@ -3,14 +3,20 @@
 - ["Modifying devise" from Learn Syllabus, 'adding strong params'](https://github.com/learn-academy-2022-golf/Syllabus/blob/main/capstone/modifying-devise.md)
 - Began following trello after this
 
+
+
 # Tailwind
 - Added classes to new.html.erb
 ``` css
 class: "block text-sm font-md leading-5 text-white"
 ```
 
+
+
 # Need to do
 - Add gender options (select option)
+
+
 
 # Database
 

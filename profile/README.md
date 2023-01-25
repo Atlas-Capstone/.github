@@ -1,6 +1,6 @@
 Next generation fitness app, using React, Rails, Tailwind.
 
-Project link: atlas-capstone.onrender.com
+[Live Link](https://atlas-capstone.onrender.com/)
 
 - [See our database schema](https://docs.google.com/document/d/120WrZ5LZB7vedFtjZQTNwbVa-6HexhsKH7_FsS0D6Qo/edit?usp=sharing)
 - [Trello](https://trello.com/b/3rkEvjWA/atlas)
